@@ -1,3 +1,7 @@
+**Admin Account**
+username: jvmbeasca
+password: admin123
+
 # Laravel Point-of-Sale System
 
 A web-based Point-of-Sale (POS) system for managing products, customers, staff accounts, inventory, and sales.
